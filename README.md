@@ -1,2 +1,2 @@
 # python
-some examples in 《learning Python》and small propects
+Life is short  so Write python
