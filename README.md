@@ -1,2 +1,1 @@
-# python
-Life is short  so Write python
+Life is short，so Write python
